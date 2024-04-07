@@ -1,6 +1,6 @@
 <?php
 if ($_SERVER["REQUEST_METHOD"] == "POST") {
-    $to = "rich@lazerwebsites.com"; // Your email address where you want to receive messages
+    $to = "ironsujee@gmail.com"; // Your email address where you want to receive messages
     $form_id = $_POST['form_id']; // Form identifier
     $name = $_POST['name'];
     $email = $_POST['email'];
